@@ -1,12 +1,12 @@
 :root {
     --album-detail-bg: #ffffff;
-    --album-detail-surface: #f4f5f9;
-    --album-detail-surface-strong: #0f1020;
-    --album-detail-border: rgba(15, 16, 32, 0.1);
-    --album-detail-text: #0f1020;
-    --album-detail-muted: #667085;
-    --album-detail-shadow: 0 28px 80px rgba(15, 16, 32, 0.08);
-    --album-detail-danger: #dc2447;
+    --album-detail-surface: #f1f5f9;
+    --album-detail-surface-strong: #1e293b;
+    --album-detail-border: rgba(30, 41, 59, 0.08);
+    --album-detail-text: #1e293b;
+    --album-detail-muted: #64748b;
+    --album-detail-shadow: 0 28px 80px rgba(30, 41, 59, 0.06);
+    --album-detail-danger: #ef4444;
 }
 
 body.album-detail-page {

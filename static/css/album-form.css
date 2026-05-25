@@ -1,11 +1,11 @@
 :root {
-    --album-form-bg: #f7f3ed;
-    --album-form-ink: #162033;
-    --album-form-muted: #6a7183;
-    --album-form-border: rgba(22, 32, 51, 0.11);
-    --album-form-field: rgba(255, 255, 255, 0.8);
+    --album-form-bg: #f8f9fa;
+    --album-form-ink: #1e293b;
+    --album-form-muted: #64748b;
+    --album-form-border: rgba(30, 41, 59, 0.08);
+    --album-form-field: rgba(255, 255, 255, 0.9);
     --album-form-field-focus: #ffffff;
-    --album-form-shadow: 0 22px 60px rgba(22, 32, 51, 0.1);
+    --album-form-shadow: 0 22px 60px rgba(30, 41, 59, 0.08);
 }
 
 body.album-form-page,
